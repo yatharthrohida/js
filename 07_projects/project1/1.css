@@ -1,0 +1,31 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+html,body{
+    margin:0%;
+    width:100%;
+    height:100;
+}
+.canvas{
+    width:100%;
+    height:100;
+   
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: 2px solid black;
+    cursor: pointer;
+
+    margin: 10px;
+     align-items: center;
+     justify-content: center;
+}
+
+#grey { background-color: grey; margin-left: 150px;}
+#white { background-color: white; }
+#blue { background-color: blue; }
+#yellow { background-color: yellow; }
